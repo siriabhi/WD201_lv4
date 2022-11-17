@@ -1,4 +1,4 @@
-const todoList = require('../sample');
+const todoList = require('../todo');
 var d =new Date();
 
 
